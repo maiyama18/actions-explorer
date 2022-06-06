@@ -1,0 +1,2 @@
+SomePrivateLib:
+  url: git@github.com:maiyama18/SomePrivateLib.git
